@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.masthead {
+  background-image: url("../images/logo.png")
+  background-size:  1200px;
+  background-position: center 10px, left top;
+  text-align: center;
+}
+
+nav a {
+  display: inline-block;
+  padding: 1em;
+  background-color: #231f20;
+  color: #bc9042;
+  text-decoration: none;
+  border-radius: 0px;
+}
+
+nav {
+  padding: 0em;
+  margin: 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+}
+nav ol {
+  margin: 0;
+  padding: 0;
+}
