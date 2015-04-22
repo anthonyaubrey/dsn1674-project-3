@@ -6,6 +6,9 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0px;
+}
 .masthead {
   background-image: url("../images/logo.png")
   background-size:  1200px;
@@ -20,6 +23,7 @@ nav a {
   color: #bc9042;
   text-decoration: none;
   border-radius: 0px;
+  font-family: 'Lato', sans-serif;
 }
 
 nav {
