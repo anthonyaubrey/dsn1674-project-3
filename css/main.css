@@ -9,18 +9,16 @@ html {
 body {
   margin: 0px;
 }
-.masthead {
-  background-image: url("../images/logo.png")
-  background-size:  1200px;
-  background-position: center 10px, left top;
-  text-align: center;
+
+.logo {
+  width: 100%;
 }
 
 nav a {
   display: inline-block;
   padding: 1em;
   background-color: #231f20;
-  color: #bc9042;
+  color: #b58d3e;
   text-decoration: none;
   border-radius: 0px;
   font-family: 'Lato', sans-serif;
@@ -38,4 +36,34 @@ nav li {
 nav ol {
   margin: 0;
   padding: 0;
+}
+
+.box {
+  padding: 3em;
+  background-color: #231f20;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: #b58d3e;
+}
+
+.box-1 {
+  position: relative;
+}
+
+.apps {
+  margin: 1em;
+  width: 200px;
+}
+
+
+h2 {
+  background-color: #231f20;
+  color: #b58d3e;
+  font-family: 'Lato', sans-serif;
+  padding: 1em;
+}
+
+p {
+  text-align: center;
+  margin: 2em;
 }
