@@ -12,11 +12,12 @@ body {
 
 .logo {
   width: 100%;
+  position: relative;
 }
 
 nav a {
   display: inline-block;
-  padding: 1em;
+  padding: 1em 3.25em 1em 3.25em;
   background-color: #231f20;
   color: #b58d3e;
   text-decoration: none;
@@ -25,9 +26,11 @@ nav a {
 }
 
 nav {
-  padding: 0em;
+  padding-top: .3em;
   margin: 0;
   text-align: center;
+  background-color: #b58d3e;
+  padding-bottom: .3em;
 }
 
 nav li {
