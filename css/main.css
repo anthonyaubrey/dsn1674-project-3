@@ -84,7 +84,18 @@ h3 {
 .maps {
   margin-top: 1em;
   width: 100%;
-  margin-bottom: 2em;
+  margin-bottom: 0em;
   background-color: #231f20;
   padding: 2em;
+}
+
+.ssi {
+  background-color: #9e0b28;
+  padding: 2em;
+  padding-top: 5em;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: 0em;
+  color: #b58d3e;
 }
