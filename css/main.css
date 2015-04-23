@@ -74,3 +74,9 @@ h3 {
   font-family: 'Lato', sans-serif;
   padding: 1em;
   text-align: right;
+  margin: 0em;
+}
+
+.x {
+  width: 100%;
+}
