@@ -67,3 +67,10 @@ p {
   text-align: center;
   margin: 2em;
 }
+
+h3 {
+  background-color: #231f20;
+  color: #b58d3e;
+  font-family: 'Lato', sans-serif;
+  padding: 1em;
+  text-align: right;
